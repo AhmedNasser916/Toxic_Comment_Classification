@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>X icone_hover.svg</file>
+    <file>Frame 1.svg</file>
+    <file>X icone.svg</file>
+    <file>Rectangle 5.svg</file>
+    <file>Rectangle 4.svg</file>
+    <file>Rectangle 3.svg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Group 1.svg</file>
+  </qresource>
+</RCC>
